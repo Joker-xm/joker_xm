@@ -1,4 +1,3 @@
-# 创建 vercel.json 文件
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
